@@ -1,0 +1,76 @@
+body {
+	background-color: #212121;
+}
+
+#side {
+	background-color: #0a0a0a;
+}
+
+.nav a {
+	color: #fff;
+}
+
+.nav a:hover {
+	background-color: rgba(255,255,255,0.05)!important;
+}
+
+header {
+	background-color: #0a0a0a;
+}
+
+.name {
+	color: #fff;
+	background-color: rgba(255,255,255,0.3);
+}
+
+.about p {
+	color: #fff;
+}
+
+#skills {
+	background-color: #0a0a0a;
+}
+
+#skills label {
+	color: #fff;
+}
+
+#skills span {
+	background-color: rgba(255,255,255,0.05);
+	color: #fff;
+}
+
+#portfolio {
+	background-color: #0a0a0a;
+}
+
+#portfolio label {
+	color: #fff;
+}
+
+.container div span {
+	background-color: rgba(255,255,255,0.05);
+	color: #fff;
+}
+
+#contacts {
+	background-color: #0a0a0a;
+}
+
+#contacts label {
+	color: #fff;
+}
+
+#contacts span {
+	color: #fff;
+}
+
+#contacts span:last-child {
+	background-color: rgba(255,255,255,0.1);
+	color: #fff;
+}
+
+#contacts span i {
+	background-color: rgba(255,255,255,0.1);
+	color: #fff;
+}
